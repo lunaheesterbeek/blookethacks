@@ -1,7 +1,3 @@
-# 🎮 Zip's Blooket Hacks / Cheats GUI (V2.1)
-The best, pro, Blooket Hacks & Cheat GUI out there, containing over 5 repositories worth of cheats, for simplicity and fun.
-
-[Zips Blooket Hacks and Cheats GUI](https://github.com/Zip-On/Zips-Blooket-Hacks-And-Cheats-GUI) is a script that merges loads of other Blooket GUIs into one easy-to-use GUI, giving easy access to multiple hacks without the need to navigate through different scripts or repositories.
 
 ## 📌 Repositories Included For The GUI:
 
@@ -10,7 +6,7 @@ The best, pro, Blooket Hacks & Cheat GUI out there, containing over 5 repositori
 * [KushMehta5990/Blooket-cheats](https://github.com/KushMehta5990/Blooket-cheats)
 * [chazzman42/Blooket-Hacks](https://github.com/chazzman42/Blooket-Hacks)
 * [randomstuff69/blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus)
-* [Zip-On/Zips-Blooket-Hacks-And-Cheats-GUI](https://github.com/Zip-On/Zips-Blooket-Hacks-And-Cheats-GUI) **OUR REPOSITORY**
+* [Zip-On/Zips-Blooket-Hacks-And-Cheats-GUI](https://github.com/Zip-On/Zips-Blooket-Hacks-And-Cheats-GUI)
 
 
 
